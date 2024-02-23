@@ -24,4 +24,4 @@ All images are in RGB format, with dimensions ranging from 1080x1616 to 3024x403
 Organization
 The dataset is meticulously organized into folders, with each folder representing a specific classification. This structured arrangement facilitates efficient training of the image classification model.
 
-# This README provides an overview of the project, detailing its objectives, data collection process, and dataset characteristics. For further details, refer to the project documentation and codebase available in the repository.
+This README provides an overview of the project, detailing its objectives, data collection process, and dataset characteristics. For further details, refer to the project documentation and codebase available in the repository.
