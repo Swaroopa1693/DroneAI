@@ -1,7 +1,10 @@
 # MACHINE LEARNING
+
 # Project Overview
+
         Image Classification for Sugarcane Leaf Diseases
-        The goal of this project is to develop a deep learning-based image classification model capable of categorizing sugarcane leaf images into the following categories:
+        The goal of this project is to develop a deep learning-based image classification model capable of 
+        categorizing sugarcane leaf images into the following categories:
         
         Healthy leaf.
         Infected by rust disease.
@@ -19,7 +22,8 @@ The images collected are a mix of infected and healthy leaves. Around 14500 suga
 # Dataset Analysis
 
 Image Characteristics
-All images are in RGB format, with dimensions ranging from 1080x1616 to 3024x4032 pixels. To standardize the dataset, we resized the images to 100x100 pixels and trimmed unnecessary portions.
+All images are in RGB format, with dimensions ranging from 1080x1616 to 3024x4032 pixels.
+To standardize the dataset, we resized the images to 100x100 pixels and trimmed unnecessary portions.
 
 Organization
 The dataset is meticulously organized into folders, with each folder representing a specific classification. This structured arrangement facilitates efficient training of the image classification model.
